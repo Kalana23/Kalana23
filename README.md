@@ -98,7 +98,7 @@
 <h3 align="center">🔝 Top Repository</h3>
 <div align="center">
   <a href="https://github.com/Kalana23/MY-Personal-portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalana23&repo=MY-Personal-portfolio&theme=neon" alt="Top Repository" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Kalana23&repo=MY-Personal-portfolio&theme=neon" alt="Top Repository" />
   </a>
 </div>
 
