@@ -29,10 +29,10 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
-  <a href="https://facebook.com/Kalana%20Neranjana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/_k__ala_n__x" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/Kalana%20Neranjana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://tiktok.com/@_kalana__" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.facebook.com/share/1C1WCJzWJP/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/__k___ala__n___x?igsh=MXhpcnFzMnJ3Z3JxOQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/kalana-neranjana-91114529b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.tiktok.com/@__kalana___?_r=1&_t=ZS-966HDYCMAki" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a>
   <a href="https://x.com/Kalana%20Neranjana" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="mailto:kalananeranjana30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
@@ -95,9 +95,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3 align="center">🔝 Top Repository</h3>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kalana23&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/Kalana23/MY-Personal-portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalana23&repo=MY-Personal-portfolio&theme=neon" alt="Top Repository" />
+  </a>
 </div>
 
 <br>
