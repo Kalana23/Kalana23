@@ -95,10 +95,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<h3 align="center">🔝 Top Repository</h3>
+<h3 align="center">🚀 My Personal Portfolio</h3>
 <div align="center">
-  <a href="https://github.com/Kalana23/MY-Personal-portfolio" target="_blank">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Kalana23&repo=MY-Personal-portfolio&theme=neon" alt="Top Repository" />
+  <a href="https://kalana.is-a.dev" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/Kalana23/MY-Personal-portfolio" width="600" alt="My Portfolio" />
   </a>
 </div>
 
